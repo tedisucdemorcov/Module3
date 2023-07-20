@@ -1,0 +1,21 @@
+/* // title side */
+.round-image {
+  border-radius: 20px !important;
+  border-radius: 60%;
+}
+
+title {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* // top side window screen 1920 x 1080 */
+
+.topcontainer
+{
+  width: 100%;
+  height: 600px;
+  background-image: url('/Assets/img/topsidebackground.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
